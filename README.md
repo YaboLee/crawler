@@ -1,5 +1,5 @@
 # crawler
->1. crawler_1024
+1. crawler_1024
 >>Now: </br> it can download pictures from one specific post
 >>Future: </br> 
 >1. multi-pools
